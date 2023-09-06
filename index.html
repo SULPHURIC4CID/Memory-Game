@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Page Title</title>
+        <link rel="stylesheet" href="style.css" />
+        <meta name="mazeGame" content="width=device-width,initial-scale=1">
+        <script id = "tailwind" src="https://cdn.tailwindcss.com"></script>
+        <script src="main.js"></script>
+    </head>
+    <body class = "bg-black">
+        <div class="flex flex-col bg-black h-5/6">
+            <h1 class = "self-center text-white
+                         font-bold mt-20 mb-10 text-3xl">Welcome to the world's best Memory Game</h1>
+            <h2 class = "self-center text-white font-bold mt-10 text-xl">Match the parent animal to its baby.</h2>
+            <h2 class = "self-center text-yellow-100 font-bold m-10 text-xl">Click on the card to reveal the animal underneath.</h2>
+            <button id="generateButton" onclick = "generateGrid()" innerHTML = "Generate!!" class = "self-center
+                             bg-slate-400 shadow-md rounded-full
+                             border-2 border-slate-900
+                             m-3 p-3 mb-20
+                             text-xl">
+                Generate Grid
+            </button>
+            
+            
+
+        </div>
+    </body>
+</html>
