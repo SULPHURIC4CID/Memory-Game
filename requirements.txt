@@ -1,0 +1,8 @@
+1. Have a title - MAZE GAME
+2. Have a button called Generate Grid
+3. Upon clicking the button a n*n grid must be displayed!
+4. Dimensions of each box in the grid
+	a. Black background
+	b. white border
+	
+
