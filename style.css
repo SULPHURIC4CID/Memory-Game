@@ -1,0 +1,39 @@
+.button {
+    height: 100px;
+    width: 300px; 
+    background-color: grey; 
+    border: 4px solid black; 
+    text-align:center;
+    border-color: black;
+    font-size: small;
+}
+
+
+.divClass1 {
+    height: 400px;
+    width: 400px;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.divClass2 {
+    height: 400px;
+    width: 400px;
+    background-color: blueviolet;
+    text-align: center;
+    padding:25px;
+}
+
+.divClass3 {
+    height: 400px;
+    width: 400px;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.divClass4 {
+    height: 400px;
+    width: 400px;
+    background-color: blueviolet;
+    text-align: center;
+}
